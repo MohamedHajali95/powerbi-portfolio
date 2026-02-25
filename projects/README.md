@@ -1,62 +1,38 @@
-# Power BI Analytics Portfolio
+# Projects Overview
 
-This repository showcases a progression of Power BI projects, starting from foundational dashboards to advanced analytical and interactive reporting solutions.
-
-The focus is on:
-- Business-oriented analysis
-- Clean data modeling
-- Time intelligence
-- Dashboard usability and storytelling
+This folder contains all Power BI projects included in this portfolio.
+Projects are ordered to reflect a clear progression in analytical complexity, data modeling, and dashboard design.
 
 ---
 
-## Projects Overview
+## 01️⃣ Cafe Sales Dashboard
+📁 [Open Project](01_cafe_sales_dashboard)
 
-### 1. Cafe Sales Dashboard
-An introductory Power BI dashboard designed to present sales performance for a café business.
+An introductory dashboard presenting café sales performance to management.
 
-**Focus:**
-- KPI reporting
-- Slicers and filtering
+- Core KPIs (Sales, Profit, Cost, Quantity)
+- Interactive slicers
 - Management-level overview
 
 ---
 
-### 2. E-Commerce Sales – Data Modeling & Analysis
-A deeper analytical project focusing on data cleaning, normalization, and star schema modeling.
+## 02️⃣ E-Commerce Sales – Data Modeling & Analysis
+📁 [Open Project](02_ecommerce_sales_modeling)
 
-**Focus:**
-- Power Query data preparation
-- Fact & dimension modeling
-- Calendar table
-- Core analytical measures
+A project focused on data preparation, normalization, and analytical modeling.
+
+- Power Query transformations
+- Star schema modeling
+- Calendar table and core DAX measures
 
 ---
 
-### 3. E-Commerce Sales – Advanced Interactive Dashboard
-An advanced Power BI project built on the same dataset, emphasizing interactivity and user experience.
+## 03️⃣ E-Commerce Sales – Advanced Interactive Dashboard
+📁 [Open Project](03_ecommerce_advanced_dashboard)
 
-**Focus:**
-- Advanced DAX (YOY, MOM, QOQ)
-- Bookmarks & toggle buttons
+An advanced Power BI solution emphasizing interactivity, UX, and time intelligence.
+
+- Multi-page report (Home & Dashboard)
 - KPI comparison vs previous year
-- Multi-page navigation
-- Analytical storytelling
-
----
-
-## Tools & Skills
-
-- Power BI
-- Power Query
-- DAX
-- Data Modeling (Star Schema)
-- Time Intelligence
-- Dashboard UX & Interaction Design
-
----
-
-## Notes
-
-These projects are part of an ongoing analytics portfolio.  
-Additional data analysis projects are currently in progress and will be added over time.
+- Bookmarks and toggle buttons
+- Advanced analytical views
