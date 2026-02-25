@@ -144,6 +144,14 @@ All projects are built using structured datasets available in the [datasets](dat
 
 ---
 
+## 🔗 Related Work   
+
+- **Excel Business Projects**  
+   Hands-on Excel projects covering data cleaning, formulas, and business analysis.  
+  👉 https://github.com/MohamedHajali95/excel-business-projects
+
+---
+
 ## 👤 Author
 
 **Mohamed Hajali**   
