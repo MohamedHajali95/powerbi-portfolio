@@ -147,7 +147,9 @@ All projects are built using structured datasets available in the [datasets](dat
 ## 👤 Author
 
 **Mohamed Hajali**
-Power BI & Data Analytics
+Power BI & Data Analytics | Business Intelligence Enthusiast
 
-GitHub: [https://github.com/MohamedHajali95](https://github.com/MohamedHajali95)
-Repository: [https://github.com/MohamedHajali95/powerbi-portfolio](https://github.com/MohamedHajali95/powerbi-portfolio)
+🔗 **GitHub:** [https://github.com/MohamedHajali95](https://github.com/MohamedHajali95)
+🔗 **Portfolio Repository:** [https://github.com/MohamedHajali95/powerbi-portfolio](https://github.com/MohamedHajali95/powerbi-portfolio)
+🔗 **LinkedIn:** [https://www.linkedin.com/in/mohamedhajali95/](https://www.linkedin.com/in/mohamedhajali95/)
+
