@@ -1,36 +1,47 @@
 # 📊 Power BI Portfolio
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge&logo=powerbi)](https://learn.microsoft.com/power-bi/)
-[![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-orange?style=for-the-badge)](https://learn.microsoft.com/dax/)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?style=for-the-badge\&logo=powerbi)](https://learn.microsoft.com/power-bi/)
+[![DAX](https://img.shields.io/badge/DAX-Time%20Intelligence-orange?style=for-the-badge)](https://learn.microsoft.com/dax/)
 [![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-blue?style=for-the-badge)](https://learn.microsoft.com/power-bi/transform-model/desktop-modeling-view)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Active-success?style=for-the-badge)](projects)
+[![Projects](https://img.shields.io/badge/Explore-Projects-success?style=for-the-badge)](projects)
+[![Datasets](https://img.shields.io/badge/View-Datasets-8A2BE2?style=for-the-badge)](datasets)
 
-A professional **Power BI portfolio** showcasing a clear progression in data analysis — starting from foundational dashboards and evolving into **advanced data modeling, time intelligence, and interactive analytical storytelling**.
+A professional Power BI portfolio showcasing a clear progression from foundational dashboards to advanced data modeling, time intelligence, and interactive analytical storytelling.
 
-This repository is focused on **business-oriented analytics**, clean data structures, and dashboards designed to support decision-making with clarity and usability.
+---
+
+## 🔎 Quick Navigation
+
+* [📂 Repository Structure](#-repository-structure)
+* [🚀 Projects Overview](#-projects-overview)
+* [🧠 Skills Demonstrated](#-skills-demonstrated)
+* [🗂 Datasets](#-datasets)
+* [📌 Notes](#-notes)
+* [👤 Author](#-author)
 
 ---
 
 ## 📂 Repository Structure
 
-- 📁 **projects** – Power BI dashboards and analytical projects
-  - 📁 [01_cafe_sales_dashboard](projects/01_cafe_sales_dashboard)
-  - 📁 [02_ecommerce_sales_modeling](projects/02_ecommerce_sales_modeling)
-  - 📁 [03_ecommerce_advanced_dashboard](projects/03_ecommerce_advanced_dashboard)
+* 📁 **Projects**
 
-- 📁 **datasets** – Source datasets used across projects
-  - 📄 [Arabic_Coffe_Sales_Dataset.xlsx](datasets/Arabic_Coffe_Sales_Dataset.xlsx)
-  - 📄 [Dataset_E-Commerce.xlsx](datasets/Dataset_E-Commerce.xlsx)
+  * 📁 [01_cafe_sales_dashboard](projects/01_cafe_sales_dashboard)
+  * 📁 [02_ecommerce_sales_modeling](projects/02_ecommerce_sales_modeling)
+  * 📁 [03_ecommerce_advanced_dashboard](projects/03_ecommerce_advanced_dashboard)
+* 📁 **Datasets**
+
+  * 📄 [Arabic_Coffe_Sales_Dataset.xlsx](datasets/Arabic_Coffe_Sales_Dataset.xlsx)
+  * 📄 [Dataset_E-Commerce.xlsx](datasets/Dataset_E-Commerce.xlsx)
 
 ---
 
-### 🚀 Projects Overview
+## 🚀 Projects Overview
 
 ### 01️⃣ Cafe Sales Dashboard
 
 📁 **[View Project](projects/01_cafe_sales_dashboard)**
 
-An introductory Power BI dashboard designed to present café sales performance to management.
+An introductory dashboard designed to present café sales performance to management.
 
 **Key Highlights**
 
@@ -39,10 +50,8 @@ An introductory Power BI dashboard designed to present café sales performance t
 * Monthly sales trends
 * High-level management overview
 
-**Core Focus**
-
-* Understanding the end-to-end analytical workflow
-* Converting raw data into clear business insights
+**Preview**
+![Cafe Sales Dashboard](projects/01_cafe_sales_dashboard/screenshot_dashboard.png)
 
 ---
 
@@ -50,7 +59,7 @@ An introductory Power BI dashboard designed to present café sales performance t
 
 📁 **[View Project](projects/02_ecommerce_sales_modeling)**
 
-A deeper analytical project focused on **data preparation and modeling best practices**.
+A deeper analytical project focused on data preparation and modeling best practices.
 
 **Key Highlights**
 
@@ -60,11 +69,9 @@ A deeper analytical project focused on **data preparation and modeling best prac
 * Structured and well-organized DAX measures
 * Foundational analytical dashboards
 
-**Core Focus**
-
-* Power Query transformations
-* Data modeling discipline
-* Analytical accuracy and consistency
+**Previews**
+![E-Commerce Dashboard](projects/02_ecommerce_sales_modeling/screenshot_dashboard.png)
+![Data Model](projects/02_ecommerce_sales_modeling/screenshot_model.png)
 
 ---
 
@@ -72,7 +79,7 @@ A deeper analytical project focused on **data preparation and modeling best prac
 
 📁 **[View Project](projects/03_ecommerce_advanced_dashboard)**
 
-An advanced Power BI solution built on the same e-commerce dataset, with a strong emphasis on **interactivity, UX, and deeper analytical insights**.
+An advanced solution built on the same e-commerce dataset, emphasizing interactivity, UX, and deeper analytical insights.
 
 **Key Highlights**
 
@@ -82,6 +89,12 @@ An advanced Power BI solution built on the same e-commerce dataset, with a stron
 * Bookmarks and toggle buttons
 * Multiple analytical views within the same visual space
 * Retention, shipping, top products, and customer analysis
+
+**Previews**
+![Home](projects/03_ecommerce_advanced_dashboard/screenshot_home_v1.png)
+![Dashboard (Default)](projects/03_ecommerce_advanced_dashboard/screenshot_dashboard_v1.png)
+![Dashboard (Toggle Activated)](projects/03_ecommerce_advanced_dashboard/screenshot_dashboard_v1_toggle.png)
+![Data Model](projects/03_ecommerce_advanced_dashboard/screenshot_model.png)
 
 ---
 
@@ -115,7 +128,7 @@ An advanced Power BI solution built on the same e-commerce dataset, with a stron
 
 ## 🗂 Datasets
 
-All projects are built using structured datasets available in the **datasets** folder.
+All projects are built using structured datasets available in the [datasets](datasets) folder.
 
 * ☕ **Café Sales Dataset** – transactional sales data used for management-level reporting
 * 🛒 **E-Commerce Dataset** – normalized sales data used for modeling, analysis, and advanced dashboards
@@ -124,8 +137,8 @@ All projects are built using structured datasets available in the **datasets** f
 
 ## 📌 Notes
 
-* This portfolio represents **practical, hands-on analytical work**
-* Projects are designed to reflect **real business scenarios**
+* This portfolio represents practical, hands-on analytical work
+* Projects are designed to reflect real business scenarios
 * Additional data analysis projects are currently in progress
 * The repository will continue to evolve as new projects are completed
 
@@ -136,7 +149,5 @@ All projects are built using structured datasets available in the **datasets** f
 **Mohamed Hajali**
 Power BI & Data Analytics
 
-🔗 GitHub: [https://github.com/MohamedHajali95](https://github.com/MohamedHajali95)
-🔗 Portfolio Repository: [https://github.com/MohamedHajali95/powerbi-portfolio](https://github.com/MohamedHajali95/powerbi-portfolio)
-
----
+GitHub: [https://github.com/MohamedHajali95](https://github.com/MohamedHajali95)
+Repository: [https://github.com/MohamedHajali95/powerbi-portfolio](https://github.com/MohamedHajali95/powerbi-portfolio)
