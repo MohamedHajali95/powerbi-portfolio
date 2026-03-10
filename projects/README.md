@@ -36,3 +36,16 @@ An advanced Power BI solution emphasizing interactivity, UX, and time intelligen
 - KPI comparison vs previous year
 - Bookmarks and toggle buttons
 - Advanced analytical views
+
+---
+
+## 04️⃣ Superstore Sales Analytics Dashboard
+📁 [Open Project](04_superstore_sales_analytics_dashboard)
+
+A multi-page analytical dashboard built on the Superstore dataset, designed to explore sales performance from pricing, product, customer, and regional perspectives.
+
+- Interactive home page with navigation buttons
+- Executive summary with year-over-year KPI tracking
+- Pricing and discount impact analysis
+- Product, customer, and regional performance views
+- Structured data model and organized DAX measures
