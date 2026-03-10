@@ -28,7 +28,7 @@ A professional Power BI portfolio showcasing a clear progression from foundation
   * 📁 [01_cafe_sales_dashboard](projects/01_cafe_sales_dashboard)
   * 📁 [02_ecommerce_sales_modeling](projects/02_ecommerce_sales_modeling)
   * 📁 [03_ecommerce_advanced_dashboard](projects/03_ecommerce_advanced_dashboard)
-  * 📁 [04_sales_analytics_dashboard](projects/04_sales_analytics_dashboard)
+  * 📁 [04_superstore_sales_analytics_dashboard](projects/04_superstore_sales_analytics_dashboard)
 * 📁 **Datasets**
 
   * 📄 [Arabic_Coffe_Sales_Dataset.xlsx](datasets/Arabic_Coffe_Sales_Dataset.xlsx)
@@ -100,9 +100,9 @@ An advanced solution built on the same e-commerce dataset, emphasizing interacti
 
 ---
 
-### 04️⃣ Sales Analytics Dashboard
+### 04️⃣ Superstore Sales Analytics Dashboard
 
-📁 **[View Project](projects/04_sales_analytics_dashboard)**
+📁 **[View Project](projects/04_superstore_sales_analytics_dashboard)**
 
 A multi-page analytical Power BI project built on the Superstore dataset, focusing on sales performance, pricing impact, product insights, customer behavior, and regional analysis.
 
@@ -117,13 +117,13 @@ A multi-page analytical Power BI project built on the Superstore dataset, focusi
 * Structured data model with organized DAX display folders
 
 **Previews**
-![Home](projects/04_sales_analytics_dashboard/screenshot_home.png)
-![Executive Summary](projects/04_sales_analytics_dashboard/screenshot_executive.png)
-![Pricing & Discount Impact Analysis](projects/04_sales_analytics_dashboard/screenshot_pricing.png)
-![Product Performance Analysis](projects/04_sales_analytics_dashboard/screenshot_product.png)
-![Customer & Purchase Behavior Analysis](projects/04_sales_analytics_dashboard/screenshot_customer.png)
-![Regional Performance Analysis](projects/04_sales_analytics_dashboard/screenshot_region.png)
-![Data Model](projects/04_sales_analytics_dashboard/screenshot_model.png)
+![Home](projects/04_superstore_sales_analytics_dashboard/screenshot_home.png)
+![Executive Summary](projects/04_superstore_sales_analytics_dashboard/screenshot_executive.png)
+![Pricing & Discount Impact Analysis](projects/04_superstore_sales_analytics_dashboard/screenshot_pricing.png)
+![Product Performance Analysis](projects/04_superstore_sales_analytics_dashboard/screenshot_product.png)
+![Customer & Purchase Behavior Analysis](projects/04_superstore_sales_analytics_dashboard/screenshot_customer.png)
+![Regional Performance Analysis](projects/04_superstore_sales_analytics_dashboard/screenshot_region.png)
+![Data Model](projects/04_superstore_sales_analytics_dashboard/screenshot_model.png)
 
 ---
 
