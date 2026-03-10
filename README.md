@@ -28,10 +28,12 @@ A professional Power BI portfolio showcasing a clear progression from foundation
   * 📁 [01_cafe_sales_dashboard](projects/01_cafe_sales_dashboard)
   * 📁 [02_ecommerce_sales_modeling](projects/02_ecommerce_sales_modeling)
   * 📁 [03_ecommerce_advanced_dashboard](projects/03_ecommerce_advanced_dashboard)
+  * 📁 [04_sales_analytics_dashboard](projects/04_sales_analytics_dashboard)
 * 📁 **Datasets**
 
   * 📄 [Arabic_Coffe_Sales_Dataset.xlsx](datasets/Arabic_Coffe_Sales_Dataset.xlsx)
   * 📄 [Dataset_E-Commerce.xlsx](datasets/Dataset_E-Commerce.xlsx)
+  * 📄 [superstore_dataset.csv](datasets/superstore_dataset.csv)
 
 ---
 
@@ -98,6 +100,33 @@ An advanced solution built on the same e-commerce dataset, emphasizing interacti
 
 ---
 
+### 04️⃣ Sales Analytics Dashboard
+
+📁 **[View Project](projects/04_sales_analytics_dashboard)**
+
+A multi-page analytical Power BI project built on the Superstore dataset, focusing on sales performance, pricing impact, product insights, customer behavior, and regional analysis.
+
+**Key Highlights**
+
+* Interactive home page with guided navigation
+* Executive summary with KPI comparison vs previous year
+* Pricing and discount impact analysis
+* Product performance and profitability insights
+* Customer purchase behavior analysis
+* Regional performance breakdown with map visualization
+* Structured data model with organized DAX display folders
+
+**Previews**
+![Home](projects/04_sales_analytics_dashboard/screenshot_home.png)
+![Executive Summary](projects/04_sales_analytics_dashboard/screenshot_executive.png)
+![Pricing & Discount Impact Analysis](projects/04_sales_analytics_dashboard/screenshot_pricing.png)
+![Product Performance Analysis](projects/04_sales_analytics_dashboard/screenshot_product.png)
+![Customer & Purchase Behavior Analysis](projects/04_sales_analytics_dashboard/screenshot_customer.png)
+![Regional Performance Analysis](projects/04_sales_analytics_dashboard/screenshot_region.png)
+![Data Model](projects/04_sales_analytics_dashboard/screenshot_model.png)
+
+---
+
 ## 🧠 Skills Demonstrated
 
 **Analytics & Modeling**
@@ -132,6 +161,7 @@ All projects are built using structured datasets available in the [datasets](dat
 
 * ☕ **Café Sales Dataset** – transactional sales data used for management-level reporting
 * 🛒 **E-Commerce Dataset** – normalized sales data used for modeling, analysis, and advanced dashboards
+* 📦 **Superstore Dataset** – transactional retail dataset used for sales analytics, customer behavior, discount analysis, and regional performance reporting
 
 ---
 
@@ -160,4 +190,3 @@ Power BI & Data Analytics | Business Intelligence Enthusiast
 🔗 **GitHub:** [https://github.com/MohamedHajali95](https://github.com/MohamedHajali95)   
 🔗 **Portfolio Repository:** [https://github.com/MohamedHajali95/powerbi-portfolio](https://github.com/MohamedHajali95/powerbi-portfolio)   
 🔗 **LinkedIn:** [https://www.linkedin.com/in/mohamedhajali95/](https://www.linkedin.com/in/mohamedhajali95/)
-
