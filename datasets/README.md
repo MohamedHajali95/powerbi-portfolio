@@ -61,6 +61,35 @@ A structured e-commerce dataset designed for analytical modeling and advanced re
 
 ---
 
+## 📦 Superstore Dataset
+**File:** `superstore_dataset.csv`
+
+A transactional retail dataset used to build a multi-page sales analytics dashboard with a strong focus on profitability, discount behavior, customer performance, and regional insights.
+
+### Dataset Scope
+- Order and shipping dates
+- Customer and segment details
+- Product categories and sub-categories
+- Geographic fields:
+  - Country
+  - City
+  - State
+  - Region
+  - Postal Code
+- Sales, quantity, discount, and profit metrics
+
+### Analytical Usage
+- Sales and profit performance tracking
+- Discount and pricing impact analysis
+- Product and sub-category profitability evaluation
+- Customer segmentation and purchase behavior analysis
+- Regional sales and profit comparison
+
+### Used In
+- **04_superstore_sales_analytics_dashboard**
+
+---
+
 ## 📌 Notes
 
 - Datasets are included for **portfolio and demonstration purposes only**
